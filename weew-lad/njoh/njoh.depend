@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1503342508 source:d:\gitty\study-scargleweewee-sblounskcher\weew-lad\njoh\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
