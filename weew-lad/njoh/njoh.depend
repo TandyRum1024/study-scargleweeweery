@@ -1,8 +1,11 @@
 # depslib dependency file v1.0
-1503342508 source:d:\gitty\study-scargleweewee-sblounskcher\weew-lad\njoh\main.c
+1503607104 source:d:\gitty\study-scargleweewee-sblounskcher\weew-lad\njoh\main.c
 	<stdio.h>
 	<stdlib.h>
 	<windows.h>
+	<conio.h>
+	<locale.h>
+	<math.h>
 
 1503558106 source:c:\users\ahn_family\documents\github\study-scargleweeweery\weew-lad\njoh\main.c
 	<stdio.h>
@@ -13,4 +16,8 @@
 	<stdio.h>
 	<stdlib.h>
 	<windows.h>
+
+1503606789 source:d:\gitty\study-scargleweewee-sblounskcher\weew-lad\njoh\grafix_villain.c
+	<windows.h>
+	<stdio.h>
 
